@@ -41,14 +41,6 @@ This suite combines AI-driven anomaly detection, active network forensics, and z
 ## 📸 Screenshots
 
 
-```text
-screenshots/
-├── dashboard.png
-├── process_scan.png
-├── network_monitor.png
-├── fortress_mode.png
-└── alerts.png
-```
 
 <img width="1267" height="892" alt="image" src="https://github.com/user-attachments/assets/4d35c630-c7fa-4b25-8fc9-40ccc041271d" />
 
