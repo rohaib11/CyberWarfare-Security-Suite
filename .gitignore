@@ -1,0 +1,24 @@
+# Ignore Virtual Environment (Too big)
+venv/
+env/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore Build Artifacts (PyInstaller)
+build/
+dist/
+*.spec
+
+# Ignore Runtime Data (AI Memory & Logs)
+ai_memory.pkl
+*.log
+*.json
+
+# Ignore Quarantine (DO NOT UPLOAD VIRUSES TO GITHUB)
+Quarantine_Jail/
+*.virus
+
+# Ignore Secrets (Optional security)
+# Make sure you remove your real API Keys from the code before pushing!

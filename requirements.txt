@@ -1,0 +1,12 @@
+PyQt5
+psutil
+requests
+scikit-learn
+pandas
+numpy
+joblib
+yara-python
+scapy
+pywin32
+cryptography
+reportlab
